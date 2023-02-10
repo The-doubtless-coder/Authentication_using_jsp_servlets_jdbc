@@ -1,0 +1,7 @@
+body{
+    background-color: bisque;
+}
+.navbar{
+    position: sticky;
+    top: 0;
+}
